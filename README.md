@@ -18,15 +18,13 @@ Zwei davon sind als Präsenz geplant (Tag 1 und 3), die Tage 2 und 4 als Webinar
         * Alex: Praktische E-Lexikographie (am Beispiel des Oxford Guide of Practical Lexicography - Atkins & Rundell 2008, einschl. Frame Semantik und Lexikalische Funktionen vgl. https://github.com/zentrum-lexikographie/e-lexicography-2021-WiSe/blob/main/Melcuk%20und%20Lexikalische%20Funktionen_Fuhrmann_Seminar.pdf);
 
 ## Tag 3 (Do., 23.2.2021): Präsenz
-* 10-12.00  (Ulf: Evidence(1) | Alex Practical e-lexicography) 
+* 10-12.00 Ulf: Evidence(2)) 
 * 13-15.00 Andreas Nolda: ZDL-Regionalkorpus
 * Slot Referat / Hausarbeiten
 
 ## Tag 4 (Fr., 24.2.2021):
-* 10-12.00 (Anja | Ulf ) 
-    * Anja: DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels
-    * Ulf: Evidence(2)
-* 13-15.00 (Anja | Ulf) 
+* 10-12.00 Anja: DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels
+* 13-15.00 (Alex: Practical Lexicography)
 * 15.15-15.45: Zusammenfassung
 
 ## Weiterführende Quellen:
