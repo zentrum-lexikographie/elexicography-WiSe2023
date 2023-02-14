@@ -10,7 +10,7 @@ Zwei davon sind als Präsenz geplant (Tag 1 und 3), die Tage 2 und 4 als Webinar
 * (Alex) 15.30-16.00 Themen für Referate oder Hausarbeiten
 
 ## Tag 2 (Fr., 17.2.2023): Zoom
-* 10-12.30 (Axel): Strukturierung von Wörterbüchern (Einführung in *TEI* und *TEI-Lex0* sowie der DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter xml-Editor)
+* 10-12.30 (Axel Herold, ZDL): Strukturierung von Wörterbüchern (Einführung in *TEI* und *TEI-Lex0* sowie der DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter xml-Editor)
 * 13.30-15.30 (Ulf?) - DFG-Projekt Evidence):  
         * technische Einführung
         * Bewertung von Belegbeispielen (App-unterstützt: https://riker.bbaw.de/);  
@@ -19,8 +19,8 @@ Zwei davon sind als Präsenz geplant (Tag 1 und 3), die Tage 2 und 4 als Webinar
 
 ## Tag 3 (Do., 23.2.2021): Präsenz
 * 10-12.00 (Alex) Praktische E-Lexikographie (am Beispiel des Oxford Guide of Practical Lexicography - Atkins & Rundell 2008, einschl. Frame Semantik und Lexikalische Funktionen vgl. https://github.com/zentrum-lexikographie/e-lexicography-2021-WiSe/blob/main/Melcuk%20und%20Lexikalische%20Funktionen_Fuhrmann_Seminar.pdf);
-* 13-15.00 Andreas: ZDL-Regionalkorpus oder Slot Referate
-* Slot Referate
+* 13-15.00 Andreas Nolda: ZDL-Regionalkorpus
+* Slot Referat / Hausarbeiten
 
 ## Tag 4 (Fr., 24.2.2021):
 * 10-12.00 (Anja | Ulf ) 
