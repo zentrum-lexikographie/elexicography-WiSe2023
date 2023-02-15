@@ -1,9 +1,8 @@
 #  Blockseminar e-lexicography WiSe 2022/23
 
-Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr.
-Zwei davon sind als Präsenz geplant (Tag 1 und 3), die Tage 2 und 4 als Webinar (via Zoom).
-Kursleitung: Alexander Geyken (AG)
-Folgende Referentinnen und Referenten des Zentrums Sprache der BBAW: Ulf Hamster (UH, Axel Herold (AH), Andreas Nolda (AN), Anja Pfeifer (AP) 
+Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr. In Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 als Webinar (via Zoom).
+* Kursleitung: Alexander Geyken (AG)
+* Folgende Referentinnen und Referenten des Zentrums Sprache der BBAW: Ulf Hamster (UH, Axel Herold (AH), Andreas Nolda (AN), Anja Pfeifer (AP) 
 
 
 ## Tag 1 (Do, 16.2.2023): Präsenz
