@@ -8,16 +8,16 @@ Folgende Referentinnen und Referenten des Zentrums Sprache der BBAW: Ulf Hamster
 
 ## Tag 1 (Do, 16.2.2023): Präsenz
 * 10.00-12.15: (AG) Einführung (Lexikographie, e-Lexicography)
-* 13.00-14.00: (AG) DWDS-Webseite: dynamische Elemente der DWDS-Webseite (Glossare, Filme, Sprachspiele, Blog)
+* 13.00-14.00: (AG) DWDS-Webseite: dynamische Elemente der DWDS-Webseite (Glossare, Filme, Sprachspiele, Blog), 
 * 14.00-15.30: (AG) Wortprofile, Bewertung von Wörterbuchbelegen  
 * 15.30-16.00: (AG) Themen für Referate oder Hausarbeiten
 
 ## Tag 2 (Fr., 17.2.2023): Zoom
 * 10.00-12.30  (AH) Strukturierung von Wörterbüchern (Einführung in *TEI* und *TEI-Lex0* mit praktischen Übungen)
-* 13.30-15.30  (UH) Ulf Hamster: DFG-Projekt Evidence Teil 1 - technische Einführung 
+* 13.30-15.30  (UH) DFG-Projekt Evidence Teil 1: technische Einführung 
 
 ## Tag 3 (Do., 23.2.2021): Präsenz
-* 10.00-12.00  (UH) Ulf Hamster: Evidence(2)) 
+* 10.00-12.00  (UH) DFG-Projekt Evidence Teil 2: praktische Anwendungen 
 * 13.00-15.00  (AN) Andreas Nolda: ZDL-Regionalkorpus
 * Slot Referat / Hausarbeiten
 
