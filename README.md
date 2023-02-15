@@ -20,7 +20,7 @@ Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via
 * 13.00-15.00  (AN) Andreas Nolda: ZDL-Regionalkorpus
 * Slot Referat / Hausarbeiten
 
-## Tag 4 (Fr., 24.2.2021):
+## Tag 4 (Fr., 24.2.2021): Zoom
 * 10.00-12.00 (AP) DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels
 * 13.00-15.00 (AG) Praktische Lexikographie (Atkins et al)
 * 15.15-15.45: Zusammenfassung
