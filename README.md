@@ -2,7 +2,7 @@
 
 Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via Zoom).
 * Kursleitung: Alexander Geyken (AG)
-* Folgende Referentinnen und Referenten des Zentrums Sprache der BBAW: Ulf Hamster (UH, Axel Herold (AH), Andreas Nolda (AN), Anja Pfeiffer (AP) 
+* Folgende Referentinnen und Referenten des Zentrums Sprache der BBAW: Ulf Hamster (UH), Axel Herold (AH), Andreas Nolda (AN), Anja Pfeiffer (AP) 
 
 
 ## Tag 1 (Do, 16.2.2023): Präsenz
@@ -17,7 +17,7 @@ Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via
 
 ## Tag 3 (Do., 23.2.2021): Präsenz
 * 10.00-12.00  (UH) DFG-Projekt Evidence Teil 2: praktische Anwendungen 
-* 13.00-15.00  (AN) Andreas Nolda: ZDL-Regionalkorpus
+* 13.00-15.00  (AN) ZDL-Regionalkorpus
 * Slot Referat / Hausarbeiten
 
 ## Tag 4 (Fr., 24.2.2021): Zoom
@@ -28,13 +28,13 @@ Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via
 ## Weiterführende Quellen:
 * The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552
 * TEI P5 Guidelines (Handbuch): https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html
+* TEI Lex-0: https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html
 * Evidence: https://www.bbaw.de/forschung/evidence; https://www.informatik.tu-darmstadt.de/ukp/research_6/current_projects/ukp_evidence/ukp_project_evidence.en.jsp
-* Frame Semantik und Lexikalische Funktionen vgl. https://github.com/zentrum-lexikographie/e-lexicography-2021-WiSe/blob/main/Melcuk%20und%20Lexikalische%20Funktionen_Fuhrmann_Seminar.pdf);
+* Frame Semantik und Lexikalische Funktionen: https://github.com/zentrum-lexikographie/e-lexicography-2021-WiSe/blob/main/Melcuk%20und%20Lexikalische%20Funktionen_Fuhrmann_Seminar.pdf);
 
 ## Zoom-Räume:
-### Tag 2: 17.Feb. 2023 10:00-16:00 
+### Tag 2: 17. Feb. 2023 10:00-16:00 
 https://us02web.zoom.us/j/82724840313?pwd=VjNMZ01QMHhmek9SWnljSTROaVBRUT09
 
-
-### Tag 4: 24.Feb. 2023 10:00-16:00
+### Tag 4: 24. Feb. 2023 10:00-16:00
 https://us02web.zoom.us/j/86047404584?pwd=ako4dXpobGwycS9NbVlOa3Bhd1VqUT09
