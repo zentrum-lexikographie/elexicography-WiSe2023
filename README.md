@@ -27,6 +27,7 @@ Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via
 
 ## Weiterführende Quellen:
 * The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552
+* TEI P5 Guidelines (Handbuch): https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html
 * Evidence: https://www.bbaw.de/forschung/evidence; https://www.informatik.tu-darmstadt.de/ukp/research_6/current_projects/ukp_evidence/ukp_project_evidence.en.jsp
 * Frame Semantik und Lexikalische Funktionen vgl. https://github.com/zentrum-lexikographie/e-lexicography-2021-WiSe/blob/main/Melcuk%20und%20Lexikalische%20Funktionen_Fuhrmann_Seminar.pdf);
 
