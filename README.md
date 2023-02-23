@@ -1,4 +1,4 @@
-[folien_zdl-regionalkorpus.pdf](https://github.com/zentrum-lexikographie/elexicography-WiSe2023/files/10812465/folien_zdl-regionalkorpus.pdf)
+
 #  Blockseminar e-lexicography WiSe 2022/23
 
 Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via Zoom).
@@ -18,7 +18,7 @@ Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via
 
 ## Tag 3 (Do., 23.2.2021): Präsenz
 * 10.00-12.00  (UH) DFG-Projekt Evidence Teil 2: praktische Anwendungen 
-* 13.00-15.00  (AN) ZDL-Regionalkorpus
+* 13.00-15.00  (AN) ZDL-Regionalkorpus 
 * Slot Referat / Hausarbeiten
 
 ## Tag 4 (Fr., 24.2.2021): Zoom
@@ -31,6 +31,7 @@ Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via
 * TEI P5 Guidelines (Handbuch): https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html
 * TEI Lex-0: https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html
 * Evidence: https://www.bbaw.de/forschung/evidence; https://www.informatik.tu-darmstadt.de/ukp/research_6/current_projects/ukp_evidence/ukp_project_evidence.en.jsp
+* Tag 3: [folien_zdl-regionalkorpus.pdf](https://github.com/zentrum-lexikographie/elexicography-WiSe2023/files/10812465/folien_zdl-regionalkorpus.pdf)
 * Frame Semantik und Lexikalische Funktionen: https://github.com/zentrum-lexikographie/e-lexicography-2021-WiSe/blob/main/Melcuk%20und%20Lexikalische%20Funktionen_Fuhrmann_Seminar.pdf);
 
 ## Zoom-Räume:
