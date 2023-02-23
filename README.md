@@ -19,18 +19,19 @@ Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via
 ## Tag 3 (Do., 23.2.2021): Präsenz
 * 10.00-12.00  (UH) DFG-Projekt Evidence Teil 2: praktische Anwendungen 
 * 13.00-15.00  (AN) ZDL-Regionalkorpus 
-* Slot Referat / Hausarbeiten
+* Übungen
 
 ## Tag 4 (Fr., 24.2.2021): Zoom
 * 10.00-12.00 (AP) DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels
 * 13.00-15.00 (AG) Praktische Lexikographie (Atkins et al)
-* 15.15-15.45: Zusammenfassung
+* Übungen
 
 ## Weiterführende Quellen:
 
 **1. Kurseinheit: Strukturierung von Wörterbüchern**
 - TEI P5 Guidelines (Handbuch): https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html
 - TEI Lex-0: https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html
+- im Ordner /TEI/ finden sich die Folien und Übungsaufgaben von Axel Herold
 
 **2. Kurseinheit Evidence**
 - https://www.bbaw.de/forschung/evidence; 
