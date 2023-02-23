@@ -1,3 +1,4 @@
+[folien_zdl-regionalkorpus.pdf](https://github.com/zentrum-lexikographie/elexicography-WiSe2023/files/10812465/folien_zdl-regionalkorpus.pdf)
 #  Blockseminar e-lexicography WiSe 2022/23
 
 Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via Zoom).
