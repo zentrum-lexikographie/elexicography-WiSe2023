@@ -29,18 +29,20 @@ Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via
 ## Weiterführende Quellen:
 
 1. Kurseinheit: XML/TEI und Wörterbücher:
-* TEI P5 Guidelines (Handbuch): https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html
-* TEI Lex-0: https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html
+- TEI P5 Guidelines (Handbuch): https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html
+- TEI Lex-0: https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html
 
-2. Kurseinheit Evidence: https://www.bbaw.de/forschung/evidence; https://www.informatik.tu-darmstadt.de/ukp/research_6/current_projects/ukp_evidence/ukp_project_evidence.en.jsp
-Folien zu Evidence sind in Issues
+2. Kurseinheit Evidence: 
+- https://www.bbaw.de/forschung/evidence; 
+- https://www.informatik.tu-darmstadt.de/ukp/research_6/current_projects/ukp_evidence/ukp_project_evidence.en.jsp
+- Folien zu Evidence sind in Issues
 
 3. Kurseinheit Regionalkorpus: 
-* zNachmittag: [folien_zdl-regionalkorpus.pdf](https://github.com/zentrum-lexikographie/elexicography-WiSe2023/files/10812465/folien_zdl-regionalkorpus.pdf)
+[folien_zdl-regionalkorpus.pdf](https://github.com/zentrum-lexikographie/elexicography-WiSe2023/files/10812465/folien_zdl-regionalkorpus.pdf)
 
 4. Kurseinheit Praktische Lexikographie:
-* The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552
-* Frame Semantik und Lexikalische Funktionen: https://github.com/zentrum-lexikographie/e-lexicography-2021-WiSe/blob/main/Melcuk%20und%20Lexikalische%20Funktionen_Fuhrmann_Seminar.pdf);
+- The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552
+-  Frame Semantik und Lexikalische Funktionen: https://github.com/zentrum-lexikographie/e-lexicography-2021-WiSe/blob/main/Melcuk%20und%20Lexikalische%20Funktionen_Fuhrmann_Seminar.pdf);
 
 ## Zoom-Räume:
 ### Tag 2: 17. Feb. 2023 10:00-16:00 
