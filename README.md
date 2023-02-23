@@ -28,7 +28,7 @@ Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via
 
 ## Weiterführende Quellen:
 
-**1. Kurseinheit: XML/TEI und Wörterbücher**
+**1. Kurseinheit: Strukturierung von Wörterbüchern**
 - TEI P5 Guidelines (Handbuch): https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html
 - TEI Lex-0: https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html
 
@@ -37,7 +37,7 @@ Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via
 - https://www.informatik.tu-darmstadt.de/ukp/research_6/current_projects/ukp_evidence/ukp_project_evidence.en.jsp
 - Folien zu Evidence sind in Issues
 
-**3. Kurseinheit Regionalkorpus**
+**3. Kurseinheit ZDL-Regionalkorpus**
 - [folien_zdl-regionalkorpus.pdf](https://github.com/zentrum-lexikographie/elexicography-WiSe2023/files/10812465/folien_zdl-regionalkorpus.pdf)
 
 **4. Kurseinheit Praktische Lexikographie**
