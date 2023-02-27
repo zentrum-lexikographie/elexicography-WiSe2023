@@ -46,7 +46,7 @@ Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via
 -  Frame Semantik und Lexikalische Funktionen: https://github.com/zentrum-lexikographie/e-lexicography-2021-WiSe/blob/main/Melcuk%20und%20Lexikalische%20Funktionen_Fuhrmann_Seminar.pdf);
 
 ## Übungen
-Teil 1: unbenotete Nebenleisung
+Teil 1: unbenotete Nebenleistung
 - zu Kurseinheit 1: s. Ordner /TEI/. Aufgabenstellung aktualisiert am 27.2., 13.00 - Abgabe **10. März 2023**
 - zu Kurseimheit 2: Aktualisieurung von Ulf Hamster folgt
 - zu Kurseinheit 3: s. pdf, Aufgaben 4+5 (1-3 wurden in der Unterrrichtseinheit gemacht. Bitte diejeningen, die nicht anwesend waren, auch eine kurze Lösung für die Aufgaben 1-3 zu präsentieren.
