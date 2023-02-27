@@ -45,9 +45,15 @@ Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via
 - The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552
 -  Frame Semantik und Lexikalische Funktionen: https://github.com/zentrum-lexikographie/e-lexicography-2021-WiSe/blob/main/Melcuk%20und%20Lexikalische%20Funktionen_Fuhrmann_Seminar.pdf);
 
-## Zoom-Räume:
-### Tag 2: 17. Feb. 2023 10:00-16:00 
-https://us02web.zoom.us/j/82724840313?pwd=VjNMZ01QMHhmek9SWnljSTROaVBRUT09
+## Übungen
+Teil 1: unbenotete Nebenleisung
+- zu Kurseinheit 1: s. Ordner /TEI/. Aufgabenstellung aktualisiert am 27.2., 13.00 - Abgabe **10. März 2023**
+- zu Kurseimheit 2: Aktualisieurung von Ulf Hamster folgt
+- zu Kurseinheit 3: s. pdf, Aufgaben 4+5 (1-3 wurden in der Unterrrichtseinheit gemacht. Bitte diejeningen, die nicht anwesend waren, auch eine kurze Lösung für die Aufgaben 1-3 zu präsentieren.
 
-### Tag 4: 24. Feb. 2023 10:00-16:00
-https://us02web.zoom.us/j/86047404584?pwd=ako4dXpobGwycS9NbVlOa3Bhd1VqUT09
+Teil 2: benotete Nebenleistung
+- Themenvorschläge zu Kurseinheit 2+3 sind noch in Arbeit.
+- 10-12 seitige Hausarbeit (wenn Programmierleistung, dann weniger Seiten). 
+
+
+
