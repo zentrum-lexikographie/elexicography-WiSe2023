@@ -48,7 +48,7 @@ Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via
 ## Übungen
 Teil 1: unbenotete Nebenleistung
 - zu Kurseinheit 1: s. Ordner /TEI/. Aufgabenstellung aktualisiert am 27.2., 13.00 - Abgabe **10. März 2023**
-- zu Kurseimheit 2: Aktualisieurung von Ulf Hamster folgt
+- zu Kurseinheit 2: s. Ordner /Tag3/
 - zu Kurseinheit 3: s. pdf, Aufgaben 4+5 (1-3 wurden in der Unterrrichtseinheit gemacht. Bitte diejeningen, die nicht anwesend waren, auch eine kurze Lösung für die Aufgaben 1-3 zu präsentieren.
 
 Teil 2: benotete Nebenleistung
