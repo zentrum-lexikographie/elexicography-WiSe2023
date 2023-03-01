@@ -52,8 +52,8 @@ Teil 1: unbenotete Nebenleistung
 - zu Kurseinheit 3: s. pdf, Aufgaben 4+5 (1-3 wurden in der Unterrrichtseinheit gemacht. Bitte diejeningen, die nicht anwesend waren, auch eine kurze Lösung für die Aufgaben 1-3 zu präsentieren.
 
 Teil 2: benotete Nebenleistung
-- Themenvorschläge zu Kurseinheit 2+3 sind noch in Arbeit.
-- 10-12 seitige Hausarbeit (wenn Programmierleistung, dann weniger Seiten). 
+- Themenvorschlag zu Kurseinheit 2 ist im Unterordner Tag3, der Themenvorschlag zu Einheit 3 hat Herr Nolda an Tag3 mündlich präsentiert. Wird bis Ende der Woche schriftlich ausgearbeitetn.
+- 10-12 seitige Hausarbeit (wenn Programmierleistung, dann reichen auch ca. 4-5 Seiten). 
 
 
 
