@@ -3,7 +3,7 @@
 
 Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via Zoom).
 * Kursleitung: Alexander Geyken (AG)
-* Folgende Referentinnen und Referenten des Zentrums Sprache der BBAW: Ulf Hamster (UH), Axel Herold (AH), Andreas Nolda (AN), Anja Pfeiffer (AP) 
+* Folgende Referentinnen und Referenten des Zentrums Sprache der BBAW: Ulf Hamster (UH), Axel Herold (AH), Andreas Nolda (AN), Anja Pfeiffer (AP) ; **Kontakt** {hamster|herold|nolda|pfeiffer} at bbaw.de
 
 
 ## Tag 1 (Do, 16.2.2023): Präsenz
@@ -47,14 +47,14 @@ Vier Termine, davon in Präsenz: Tag 1 und 3, als Webinar: die Tage 2 und 4 (via
 
 ## Übungen
 Teil 1: unbenotete Nebenleistung
-- zu Kurseinheit 1: s. Ordner /TEI/. Aufgabenstellung aktualisiert am 27.2., 13.00 - Abgabe **10. März 2023**
-- zu Kurseinheit 2: s. Ordner /Tag3/. Abgabe **17. März 2023**
-- zu Kurseinheit 3: s. pdf, Aufgaben 4+5 (1-3 wurden in der Unterrrichtseinheit gemacht. Bitte diejeningen, die nicht anwesend waren, auch eine kurze Lösung für die Aufgaben 1-3 zu präsentieren. Abgabe **17. März 2023**
+- zu Kurseinheit 1: s. Ordner /TEI/. Aufgabenstellung aktualisiert am 27.2., 13.00 - Abgabe **19. März 2023**
+- zu Kurseinheit 2: s. Ordner /Tag3/. Abgabe **19. März 2023**
+- zu Kurseinheit 3: s. pdf, Aufgaben 4+5 (1-3 wurden in der Unterrrichtseinheit gemacht. Bitte diejeningen, die nicht anwesend waren, auch eine kurze Lösung für die Aufgaben 1-3 zu präsentieren. Abgabe **19. März 2023**
 
 Teil 2: benotete Nebenleistung
-- Themenvorschlag zu Kurseinheit 2 (Evidence) ist im Unterordner Tag3, 
-- Themenvorschlag zu Kurseinheit 3 (Regionalkorpus, von Andreas Nolda, Vorschläge bis Ende der Woche)
-- 10-12 seitige Hausarbeit (wenn Programmierleistung, dann reichen auch ca. 4-5 Seiten). 
+- Themenvorschlag zu Kurseinheit 2 : bei Interesse, bitte direkte Kontaktaufnahme zu mir und Herrn Hamster. 
+- Themenvorschlag zu Kurseinheit 3 : Vorschlag 1: Entwicklung eines statistischen Verfahrens, welches die Wahrscheinlichkeit dafür angibt, ob es sich bei einem Wort um einen Regionalismus handelt. Hinweis: Regionalismen (z.B. Fasching oder Icke) haben eine andere Verteilung über die Areale des Regionalkorpus (ppm) als 'normale' Wörter, wie Haus oder Fenster. Aber es gibt auch Grenzbereiche und Ausreißer. In der Aufgabe soll ein Verfahren ausgesucht und anhand einer Zufallsliste von 30 Wörtern diskutiert werden. Die Wörter sollen randomisiert ausgewählt werden. Bei Interesse an diesem Thema, bitte direkte Kontaktaufnahme zu mir und Herrn Hamster.   
+- Umfang der Arbeit: 10-12 seitige Hausarbeit (wenn Programmierleistung, dann reichen auch ca. 4-5 Seiten). 
 Abgabe **Semesterbeginn SoSe 2023**
 
 
