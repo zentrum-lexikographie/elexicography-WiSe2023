@@ -52,9 +52,9 @@ Teil 1: unbenotete Nebenleistung
 - zu Kurseinheit 3: s. pdf, Aufgaben 4+5 (1-3 wurden in der Unterrrichtseinheit gemacht. Bitte diejeningen, die nicht anwesend waren, auch eine kurze Lösung für die Aufgaben 1-3 zu präsentieren. Abgabe **19. März 2023**
 
 Teil 2: benotete Nebenleistung
-- Themenvorschlag zu Kurseinheit 2 : bei Interesse, bitte direkte Kontaktaufnahme zu mir und Herrn Hamster. 
-- Themenvorschlag zu Kurseinheit 3 : Vorschlag 1: Entwicklung eines statistischen Verfahrens, welches die Wahrscheinlichkeit dafür angibt, ob es sich bei einem Wort um einen Regionalismus handelt. Hinweis: Regionalismen (z.B. Fasching oder Icke) haben eine andere Verteilung über die Areale des Regionalkorpus (ppm) als 'normale' Wörter, wie Haus oder Fenster. Aber es gibt auch Grenzbereiche und Ausreißer. In der Aufgabe soll ein Verfahren ausgesucht und anhand einer Zufallsliste von 30 Wörtern diskutiert werden. Die Wörter sollen randomisiert ausgewählt werden. Bei Interesse an diesem Thema, bitte direkte Kontaktaufnahme zu mir und Herrn Hamster.   
-- Umfang der Arbeit: 10-12 seitige Hausarbeit (wenn Programmierleistung, dann reichen auch ca. 4-5 Seiten). 
+- Themenvorschlag zu Kurseinheit 2 : Programmierung von Komponenten zur Beleggüte und Belegvariation. Hilfestellung des Dozenten (Ulf Hamster) ist hierbei möglich. Bei Interesse, bitte direkte Kontaktaufnahme zu mir und Herrn Hamster. 
+- Themenvorschlag zu Kurseinheit 3 : Entwicklung eines statistischen Verfahrens, welches die Wahrscheinlichkeit dafür angibt, ob es sich bei einem zufällig ausgewählten Wort der deutschen Sprache um einen Regionalismus handelt. Hinweis: Regionalismen (z.B. Fasching oder 'wunderfitzig') haben eine andere Verteilung über die Areale des ZDL-Regionalkorpus (ppm) als 'normale' Wörter, wie Haus oder Fenster. Aber es gibt auch Grenzbereiche und Ausreißer. In der Aufgabe soll ein Verfahren ausgesucht und anhand einer Zufallsliste von 30 Wörtern diskutiert werden. Die Wörter sollen randomisiert ausgewählt werden. Bei Interesse an diesem Thema, bitte direkte Kontaktaufnahme zu mir und Herrn Hamster.   
+- Umfang der Arbeit: für Kurseinheit 3: 10-12 seitige Hausarbeit, in der das Verfahren beschrieben wird (und im Vergleich zu anderen Verfahren eingeordnet wird. Für Kurseinheit 2: Beschreibung des Programms (3-4 Seiten) + Quellcode. 
 Abgabe **Semesterbeginn SoSe 2023**
 
 
