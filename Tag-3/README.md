@@ -8,9 +8,9 @@ Sie haben zwei Übungen zur Auswahl.
 
 ### (A) Kuratiere Satzbelege mit der Evidence-App
 Die Übung (A) wird für die unbenotete Nebenleistung angeboten. 
-~Bitte schreiben Sie eine E-Mail an `hamster [ät] bbaw [punct] de`, um ein Lemma zu bekommen.+
+~~Bitte schreiben Sie eine E-Mail an `hamster [ät] bbaw [punct] de`, um ein Lemma zu bekommen.~~
 
-Suche Sie sich 1 Lemma aus:
+Suchen Sie sich 1 Lemma aus:
 
    - Adj: grün, nachhaltig
    - Verb: pflegen, schmelzen
